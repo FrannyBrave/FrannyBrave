@@ -29,9 +29,19 @@ I approach security work with a simple principle: **document what the evidence s
 
 **Technical foundations:** Windows Server · VirtualBox · Linux · Git/GitHub · Python and scripting
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
 **B.S., Cybersecurity & Information Assurance** — Western Governors University
+
+**Professional Certifications**
+
+- CompTIA Security+
+- CompTIA CySA+
+- CompTIA PenTest+
+- CompTIA Network+
+- CompTIA A+
+- CompTIA Project+
+- ITIL Foundation
 
 ## 📌 How I work
 
