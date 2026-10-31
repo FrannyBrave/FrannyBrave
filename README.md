@@ -1,8 +1,5 @@
 # Hi, I'm Francesca 👋
 
-### Cybersecurity | Security Operations · Identity & Access Management · Vulnerability Assessment · Security Governance
-
-I'm a cybersecurity practitioner with a B.S. in Cybersecurity & Information Assurance. My portfolio spans **security monitoring and investigation, identity and access management, vulnerability assessment, and security governance**. I build practical labs and structured case studies to develop technical depth, validate findings, and communicate security risks clearly.
 
 I approach security work with a simple principle: **document what the evidence supports, explain what remains uncertain, and recommend practical next steps.**
 
