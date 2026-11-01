@@ -1,9 +1,29 @@
 # Hi, I'm Francesca 👋
 
+**I turn messy customer problems into clear, secure, measurable products.**
 
-I approach security work with a simple principle: **document what the evidence supports, explain what remains uncertain, and recommend practical next steps.**
+When I approach security problems, I **document what the evidence supports, explain what's still uncertain, and recommend practical next steps.**
 
-## 🔎 Featured projects
+📍 McKinney, TX · Open to new roles
+
+---
+
+## 🧭 Product management case studies
+
+| Product | Case study | What it demonstrates |
+|---|---|---|
+| **Invoice data extraction** | [Invoice Data Extraction](https://github.com/FrannyBrave/invoice-data-extraction-pm-case-study) | Report-based data extraction for hospital finance: MVP scope trade-offs, Given/When/Then acceptance criteria, duplicate detection, SQL Server load validation, HIPAA-aware security, staged pilot and go-to-market |
+| **AI support assistant** | [AI Student Support Assistant](https://github.com/FrannyBrave/ai-student-support-assistant-pm-case-study) | AI-assisted customer support for an online learning platform: human handoff design, cautious vs. confident AI trade-off, FERPA-aware privacy, resolution and satisfaction metrics |
+| **Energy / demand response** | [Grid Event Response App](https://github.com/FrannyBrave/grid-event-response-app-pm-case-study) | Demand response for a virtual power plant: protected-equipment requirements, manual vs. automatic control, seasonal pilot timing, participation and performance metrics |
+
+## 🤖 AI & automation
+
+| Area | Project | What it demonstrates |
+|---|---|---|
+| **AI-assisted triage** | [Python Security Automation & AI SOC Lab](https://github.com/FrannyBrave/python-security-automation-ai-soc-lab) | Python alert triage, automated reporting, structured AI findings via the OpenAI API, output validation and required human review |
+| **Workflow automation** | [Power Automate Document Review & GCC High Readiness Lab](https://github.com/FrannyBrave/microsoft-gcc-high-solution-readiness-lab) | Power Automate document-review workflow with human approval and audit records, plus a proposed GCC High security architecture and readiness assessment |
+
+## 🔐 Security
 
 | Area | Project | What it demonstrates |
 |---|---|---|
@@ -14,43 +34,39 @@ I approach security work with a simple principle: **document what the evidence s
 | **Vulnerability & Risk** | [Law Firm Vulnerability Assessment Case Study](https://github.com/FrannyBrave/law-firm-vulnerability-assessment-case-study) | Client-style executive, technical penetration-test and vulnerability assessment reports |
 | **Security Governance** | [SOC 2 Readiness & Policy Suite](https://github.com/FrannyBrave/soc2-readiness-security-policy-suite) | Fictional SaaS readiness gap assessment, security policies, control mapping and remediation planning |
 
-## 🛠️ Technical toolkit
+## 🛠️ Toolkit
+
+**Product & delivery:** Jira · Asana · HubSpot · SQL / SQL Server · user stories & acceptance criteria · backlog prioritization · UAT & release readiness · Agile / Scrum (PSM I)
+
+**AI & automation:** Claude · Microsoft Copilot · OpenAI API · Python · Power Automate / Power Platform · Zapier
 
 **Security operations:** Microsoft Sentinel · Azure Log Analytics · KQL · Azure Monitor Agent · Azure Arc · Windows Security Events · Splunk · SPL
 
 **Identity & cloud security:** Microsoft Entra ID · Azure RBAC · security groups · access reviews · least privilege · identity audit logs · JML processes
 
-**Vulnerability & application security:** OWASP Juice Shop · Burp Suite · OWASP ZAP · Nmap · Nessus · vulnerability analysis and remediation documentation
+**Vulnerability & application security:** Burp Suite · OWASP ZAP · Nmap · Nessus · vulnerability analysis and remediation documentation
 
-**Security governance and analysis:** SOC 2 readiness concepts · security policy development · risk assessment · incident documentation · MITRE ATT&CK
+**Governance & analysis:** SOC 2 readiness concepts · security policy development · risk assessment · incident documentation · MITRE ATT&CK
 
-**Technical foundations:** Windows Server · VirtualBox · Linux · Git/GitHub · Python and scripting
-
-## 🎓 Education & Certifications
-
-**B.S., Cybersecurity & Information Assurance** — Western Governors University
-
-**Professional Certifications**
-
-- CompTIA Security+
-- CompTIA CySA+
-- CompTIA PenTest+
-- CompTIA Network+
-- CompTIA A+
-- CompTIA Project+
-- ITIL Foundation
-- Professional Scrum Master (PSM I)
+**Technical foundations:** Windows Server · Linux · VirtualBox · Git / GitHub
 
 ## 📌 How I work
 
-- Build and document hands-on technical exercises
-- Correlate logs, configurations and observed outcomes
-- Practice least-privilege access design and verification
-- Translate security findings into clear technical and business-facing reports
-- Distinguish **verified lab results** from simulated scenarios and untested detection ideas
+- Start with the user's real problem, using recent events rather than opinions
+- Write acceptance criteria an engineer can build and a tester can check
+- Weigh impact against effort, and say plainly what's in, what's out, and why
+- Build security and privacy in from the start, not after launch
+- Measure what changed for users and for the business, then adjust
+- Distinguish **verified lab results** from simulated scenarios and concept work
 
-**Areas of interest:** Security Operations / SOC · Identity & Access Management · Security Analysis · Vulnerability Management · Cloud Security · Governance, Risk & Compliance · Cyber Threat Intelligence
+## 🎓 Education & certifications
+
+**B.S., Cybersecurity & Information Assurance** — Western Governors University
+
+CompTIA Security+ · CySA+ · PenTest+ · Network+ · A+ · Project+ · ITIL Foundation · Professional Scrum Master I (PSM I)
+
+**Areas of interest:** Product Management · Product Operations · AI & Automation Integration · Security Operations · Identity & Access Management · Governance, Risk & Compliance
 
 ---
 
-*Portfolio projects include controlled labs, academic projects and fictionalized case studies. Their READMEs clarify what was implemented, simulated, or documented; no real client or patient information is published.*
+*Portfolio projects include concept case studies, controlled labs, academic projects and fictionalized scenarios. Each README clarifies what was implemented, simulated, or documented; no real client, patient, or customer information is published.*
