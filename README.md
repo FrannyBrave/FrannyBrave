@@ -39,6 +39,7 @@ I approach security work with a simple principle: **document what the evidence s
 - CompTIA A+
 - CompTIA Project+
 - ITIL Foundation
+- Professional Scrum Master (PSM I)
 
 ## 📌 How I work
 
