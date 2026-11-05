@@ -20,6 +20,7 @@ When I approach security problems, I **document what the evidence supports, expl
 
 | Area | Project | What it demonstrates |
 |---|---|---|
+| **Product ops & AI workflows** | [Product Ops Launch & Feedback Loop](https://github.com/FrannyBrave/product-ops-launch-feedback-loop) | Concept cross-team launch and intake process, plus Python workflows on the Claude API that draft release briefings, triage and route customer feedback, find recurring themes and flag gaps for human review; structured output, automated checks and offline tests |
 | **AI-assisted triage** | [Python Security Automation & AI SOC Lab](https://github.com/FrannyBrave/python-security-automation-ai-soc-lab) | Python alert triage, automated reporting, structured AI findings via the OpenAI API, output validation and required human review |
 | **Workflow automation** | [Power Automate Document Review & GCC High Readiness Lab](https://github.com/FrannyBrave/microsoft-gcc-high-solution-readiness-lab) | Power Automate document-review workflow with human approval and audit records, plus a proposed GCC High security architecture and readiness assessment |
 
@@ -38,7 +39,7 @@ When I approach security problems, I **document what the evidence supports, expl
 
 **Product & delivery:** Jira · Asana · HubSpot · SQL / SQL Server · user stories & acceptance criteria · backlog prioritization · UAT & release readiness · Agile / Scrum (PSM I)
 
-**AI & automation:** Claude · Microsoft Copilot · OpenAI API · Python · Power Automate / Power Platform · Zapier
+**AI & automation:** Claude · Claude API · Microsoft Copilot · OpenAI API · Python · Power Automate / Power Platform · Zapier
 
 **Security operations:** Microsoft Sentinel · Azure Log Analytics · KQL · Azure Monitor Agent · Azure Arc · Windows Security Events · Splunk · SPL
 
