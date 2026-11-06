@@ -24,7 +24,7 @@ When I approach security problems, I **document what the evidence supports, expl
 | **AI-assisted triage** | [Python Security Automation & AI SOC Lab](https://github.com/FrannyBrave/python-security-automation-ai-soc-lab) | Python alert triage, automated reporting, structured AI findings via the OpenAI API, output validation and required human review |
 | **Workflow automation** | [Power Automate Document Review & GCC High Readiness Lab](https://github.com/FrannyBrave/microsoft-gcc-high-solution-readiness-lab) | Power Automate document-review workflow with human approval and audit records, plus a proposed GCC High security architecture and readiness assessment |
 
-## 🔐 Security
+## 🔐 CyberSecurity
 
 | Area | Project | What it demonstrates |
 |---|---|---|
