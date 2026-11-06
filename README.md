@@ -4,7 +4,7 @@
 
 When I approach security problems, I **document what the evidence supports, explain what's still uncertain, and recommend practical next steps.**
 
-📍 McKinney, TX · Open to new roles
+📍 Remote, USA · Open to new roles
 
 ---
 
