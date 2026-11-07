@@ -8,6 +8,16 @@ When I approach security problems, I **document what the evidence supports, expl
 
 ---
 
+## 🚀 Product I built
+
+**[The Comfort Bond™](https://thecomfortbond.com)** · Founder, Product Owner & Go-to-Market
+
+A digital product venture I built from 0 to 1 for Activity Professionals in senior living and memory care.
+
+- Owned product positioning, value propositions, go-to-market messaging, landing pages and customer-facing content for a defined target audience
+- Built lead magnets, email nurture campaigns and automated customer journeys (Zapier) to drive engagement, product discovery and customer acquisition
+- Designed every product myself in Canva
+
 ## 🧭 Product management case studies
 
 | Product | Case study | What it demonstrates |
