@@ -2,15 +2,13 @@
 
 **I turn messy customer problems into clear, secure, measurable products.**
 
-When I approach security problems, I **document what the evidence supports, explain what's still uncertain, and recommend practical next steps.**
-
 📍 Remote, USA · Open to new roles
 
 ---
 
 ## 🚀 Product I built
 
-**[The Comfort Bond™](https://thecomfortbond.com)** · Founder, Product Owner & Go-to-Market
+**[The Comfort Bond™](https://thecomfortbond.com)** · Product Owner & Go-to-Market
 **Independent Digital Product Venture | Product Management, Product Design & Go-to-Market**
 
 - **0-to-1 Product Development:** Built and launched a digital product venture serving senior-living activity professionals, owning product strategy, customer needs, feature and content development, pricing, and launch execution.
