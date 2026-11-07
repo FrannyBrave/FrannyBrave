@@ -9,7 +9,7 @@
 ## 🚀 Product I built
 
 **[The Comfort Bond™](https://thecomfortbond.com)** · Product Owner & Go-to-Market
-**Independent Digital Product Venture | Product Management, Product Design & Go-to-Market**
+**Product Management, Product Design & Go-to-Market**
 
 - **0-to-1 Product Development:** Built and launched a digital product venture serving senior-living activity professionals, owning product strategy, customer needs, feature and content development, pricing, and launch execution.
 - **Product Design & Customer Experience:** Independently designed and developed the digital product portfolio, creating customer-ready engagement kits and resources tailored to the target audience.
