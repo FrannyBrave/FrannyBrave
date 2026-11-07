@@ -66,7 +66,7 @@ When I approach security problems, I **document what the evidence supports, expl
 
 CompTIA Security+ · CySA+ · PenTest+ · Network+ · A+ · Project+ · ITIL Foundation · Professional Scrum Master I (PSM I)
 
-**Areas of interest:** Product Management · Product Operations · AI & Automation Integration · Security Operations · Identity & Access Management · Governance, Risk & Compliance
+**Areas of interest:** Product Management · Product GTM · AI & Automation Integration · Security Operations · Identity & Access Management · Governance, Risk & Compliance
 
 ---
 
