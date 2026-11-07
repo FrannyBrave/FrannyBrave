@@ -11,12 +11,14 @@ When I approach security problems, I **document what the evidence supports, expl
 ## 🚀 Product I built
 
 **[The Comfort Bond™](https://thecomfortbond.com)** · Founder, Product Owner & Go-to-Market
+**Independent Digital Product Venture | Product Management, Product Design & Go-to-Market**
 
-A digital product venture I built from 0 to 1 for Activity Professionals in senior living and memory care.
+- **0-to-1 Product Development:** Built and launched a digital product venture serving senior-living activity professionals, owning product strategy, customer needs, feature and content development, pricing, and launch execution.
+- **Product Design & Customer Experience:** Independently designed and developed the digital product portfolio, creating customer-ready engagement kits and resources tailored to the target audience.
+- **Go-to-Market & Growth:** Developed product positioning, value propositions, website copy, landing pages, and customer-facing content to communicate product benefits and support discovery.
+- **Marketing Automation:** Built lead magnets, email nurture sequences, and automated customer journeys using Zapier to support audience engagement, lead capture, and product delivery.
 
-- Owned product positioning, value propositions, go-to-market messaging, landing pages and customer-facing content for a defined target audience
-- Built lead magnets, email nurture campaigns and automated customer journeys (Zapier) to drive engagement, product discovery and customer acquisition
-- Designed every product myself in Canva
+**Live Product:** [thecomfortbond.com](https://thecomfortbond.com)
 
 ## 🧭 Product management case studies
 
