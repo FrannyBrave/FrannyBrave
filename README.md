@@ -6,18 +6,6 @@
 
 ---
 
-## 🚀 Product I built
-
-**[The Comfort Bond™](https://thecomfortbond.com)** · Product Owner & Go-to-Market
-**Product Management, Product Design & Go-to-Market**
-
-- **0-to-1 Product Development:** Built and launched a digital product venture serving senior-living activity professionals, owning product strategy, customer needs, feature and content development, pricing, and launch execution.
-- **Product Design & Customer Experience:** Independently designed and developed the digital product portfolio, creating customer-ready engagement kits and resources tailored to the target audience.
-- **Go-to-Market & Growth:** Developed product positioning, value propositions, website copy, landing pages, and customer-facing content to communicate product benefits and support discovery.
-- **Marketing Automation:** Built lead magnets, email nurture sequences, and automated customer journeys using Zapier to support audience engagement, lead capture, and product delivery.
-
-**Live Product:** [thecomfortbond.com](https://thecomfortbond.com)
-
 ## 🌱 A product I built
 
 | Product | Case study | What it demonstrates |
