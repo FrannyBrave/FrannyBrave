@@ -18,6 +18,12 @@
 
 **Live Product:** [thecomfortbond.com](https://thecomfortbond.com)
 
+## 🌱 A product I built
+
+| Product | Case study | What it demonstrates |
+|---|---|---|
+| **The Comfort Bond™** | [The Comfort Bond: Zero-to-One Case Study](https://github.com/FrannyBrave/the-comfort-bond-case-study) | A real digital product I founded and launched end to end (March–August 2026): problem discovery, refining the audience, product-line design, pricing and bundling, positioning, a free-to-paid funnel with Pinterest and email, paid sales, and lessons learned. Live at [thecomfortbond.com](https://thecomfortbond.com/) |
+
 ## 🧭 Product management case studies
 
 | Product | Case study | What it demonstrates |
