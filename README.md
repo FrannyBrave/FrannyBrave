@@ -6,7 +6,7 @@
 
 ---
 
-## 🌱 A product I built
+## 🌱 A product I built · Founder, Product Manager & Product Marketer
 
 | Product | Case study | What it demonstrates |
 |---|---|---|
