@@ -1,16 +1,19 @@
 # Hi, I'm Francesca 👋
 
-**I turn messy customer and user problems into clear, structured measurable products to solve problems and improve workflows.**
+**I turn messy operational and customer problems into clear, measurable tools and workflows, increasingly built with AI.**
 
-📍 Remote, USA · Open to new roles
+📍 Dallas–Fort Worth, TX · Open to new roles
 
 ---
 
-## 🌱 A product I built · Founder, Product Manager & Product Marketer
+## 🤖 AI & automation projects
 
-| Product | Case study | What it demonstrates |
+| Area | Project | What it demonstrates |
 |---|---|---|
-| **The Comfort Bond™** | [The Comfort Bond: Zero-to-One Case Study](https://github.com/FrannyBrave/the-comfort-bond-case-study) | A real digital product I founded and launched end to end (March–August 2026): problem discovery, refining the audience, product-line design, pricing and bundling, positioning, a free-to-paid funnel with Pinterest and email, paid sales, and lessons learned. Live at [thecomfortbond.com](https://thecomfortbond.com/) |
+| **AI spend classification** | [Spend Classifier](https://github.com/FrannyBrave/spend-classifier) | A Streamlit app built with Claude Code that uses the Claude API to sort purchase-order lines into spend categories, with a confidence score and a short reason for each. Low-confidence lines go to a human review queue, results are checked against a hand-labeled answer key, and Haiku and Sonnet are compared on accuracy, cost and speed. Synthetic data. |
+| **Product ops & AI workflows** | [Product Ops Launch & Feedback Loop](https://github.com/FrannyBrave/product-ops-launch-feedback-loop) | A concept process for keeping product teams and customer success teams in sync, plus two Python tools built on the Claude API. The first tool handles launches going out: you give it a list of features that just shipped, and it writes customer release notes plus a short briefing for the Sales and Implementation/Support teams. The second handles feedback coming in: it sorts customer feedback by type and urgency, sends each item to the PM who owns that area, and spots problems that several customers are raising. Neither tool guesses. If information is missing, they flag it with a specific question, and a person reviews every output before it’s shared. |
+| **AI-assisted triage** | [Python Security Automation & AI SOC Lab](https://github.com/FrannyBrave/python-security-automation-ai-soc-lab) | Python alert triage, automated reporting, structured AI findings via the OpenAI API, output validation and required human review |
+| **Workflow automation** | [Power Automate Document Review & GCC High Readiness Lab](https://github.com/FrannyBrave/microsoft-gcc-high-solution-readiness-lab) | Power Automate document-review workflow with human approval and audit records, plus a proposed GCC High security architecture and readiness assessment |
 
 ## 🧭 Product management case studies
 
@@ -20,15 +23,7 @@
 | **AI support assistant** | [AI Student Support Assistant](https://github.com/FrannyBrave/ai-student-support-assistant-pm-case-study) | AI-assisted customer support for an online learning platform: human handoff design, cautious vs. confident AI trade-off, FERPA-aware privacy, resolution and satisfaction metrics |
 | **Energy / demand response** | [Grid Event Response App](https://github.com/FrannyBrave/grid-event-response-app-pm-case-study) | Demand response for a virtual power plant: protected-equipment requirements, manual vs. automatic control, seasonal pilot timing, participation and performance metrics |
 
-## 🤖 AI & automation projects
-
-| Area | Project | What it demonstrates |
-|---|---|---|
-| **Product ops & AI workflows** | [Product Ops Launch & Feedback Loop](https://github.com/FrannyBrave/product-ops-launch-feedback-loop) | A concept process for keeping product teams and customer success teams in sync, plus two Python tools built on the Claude API. The first tool handles launches going out: you give it a list of features that just shipped, and it writes customer release notes plus a short briefing for the Sales and Implementation/Support teams. The second handles feedback coming in: it sorts customer feedback by type and urgency, sends each item to the PM who owns that area, and spots problems that several customers are raising. Neither tool guesses. If information is missing, they flag it with a specific question, and a person reviews every output before it’s shared. |
-| **AI-assisted triage** | [Python Security Automation & AI SOC Lab](https://github.com/FrannyBrave/python-security-automation-ai-soc-lab) | Python alert triage, automated reporting, structured AI findings via the OpenAI API, output validation and required human review |
-| **Workflow automation** | [Power Automate Document Review & GCC High Readiness Lab](https://github.com/FrannyBrave/microsoft-gcc-high-solution-readiness-lab) | Power Automate document-review workflow with human approval and audit records, plus a proposed GCC High security architecture and readiness assessment |
-
-## 🔐 CyberSecurity
+## 🔐 Cybersecurity
 
 | Area | Project | What it demonstrates |
 |---|---|---|
@@ -43,7 +38,9 @@
 
 **Product & delivery:** Jira · Asana · HubSpot · SQL / SQL Server · user stories & acceptance criteria · backlog prioritization · UAT & release readiness · Agile / Scrum (PSM I)
 
-**AI & automation:** Claude · Claude API · Microsoft Copilot · OpenAI API · Python · Power Automate / Power Platform · Zapier
+**AI & automation:** Claude · Claude API · Claude Code · Streamlit · Microsoft Copilot · OpenAI API · Python · Power Automate / Power Platform · Zapier
+
+**Data & reporting:** SQL · Excel · Power BI · Looker Studio · HubSpot reporting
 
 **Security operations:** Microsoft Sentinel · Azure Log Analytics · KQL · Azure Monitor Agent · Azure Arc · Windows Security Events · Splunk · SPL
 
