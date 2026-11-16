@@ -2,7 +2,7 @@
 
 **I turn messy operational and customer problems into clear, measurable tools and workflows, increasingly built with AI.**
 
-📍 Dallas–Fort Worth, TX · Open to new roles
+📍 McKinney, TX · Open to new roles (Remote)
 
 ---
 
