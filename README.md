@@ -20,7 +20,7 @@
 | **AI support assistant** | [AI Student Support Assistant](https://github.com/FrannyBrave/ai-student-support-assistant-pm-case-study) | AI-assisted customer support for an online learning platform: human handoff design, cautious vs. confident AI trade-off, FERPA-aware privacy, resolution and satisfaction metrics |
 | **Energy / demand response** | [Grid Event Response App](https://github.com/FrannyBrave/grid-event-response-app-pm-case-study) | Demand response for a virtual power plant: protected-equipment requirements, manual vs. automatic control, seasonal pilot timing, participation and performance metrics |
 
-## 🤖 AI & automation
+## 🤖 AI & automation projects
 
 | Area | Project | What it demonstrates |
 |---|---|---|
