@@ -1,6 +1,6 @@
 # Hi, I'm Francesca 👋
 
-**I turn messy customer problems into clear, secure, measurable products.**
+**I turn messy customer and user problems into clear, structured measurable products to solve problems and improve workflows.**
 
 📍 Remote, USA · Open to new roles
 
